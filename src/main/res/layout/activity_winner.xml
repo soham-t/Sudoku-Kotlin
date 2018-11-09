@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent" android:gravity="center_vertical">
+
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:gravity="center">
+        <TextView
+                android:text="Congrats!! You Win"
+                android:fontFamily="sans-serif-condensed"
+                android:textSize="30dp"
+                android:textColor="@color/tint3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/textView"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:gravity="center">
+        <Button
+                android:text="Play Again"
+                android:fontFamily="monospace"
+                android:textSize="25dp"
+                android:layout_width="wrap_content"
+                android:onClick="startAgain"
+                android:layout_height="wrap_content" android:id="@+id/button2"/>
+    </TableRow>
+</TableLayout>

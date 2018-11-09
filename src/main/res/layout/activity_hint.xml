@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+        android:gravity="center">
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b13"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b12"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:layout_marginRight="5dp"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b11"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b10"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b9"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b8"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b7"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b6"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b22"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b21"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b20"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b19"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b18"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b17"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b16"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b15"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b14"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b31"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b30"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b29"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b28"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b27"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b26"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b25"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b24"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b23"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b40"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b39"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b38"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b37"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b36"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b35"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b34"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b33"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b32"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b49"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b48"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b47"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b46"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b45"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b44"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b43"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b42"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b41"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b58"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b57"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b56"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b55"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b54"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b53"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b52"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b51"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginBottom="5dp"
+                android:layout_height="18pt" android:id="@+id/b50"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b67"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b66"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b65"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b64"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b63"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b62"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b61"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b60"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b59"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b76"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b75"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b74"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b73"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b72"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b71"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b70"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b69"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b68"/>
+    </TableRow>
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b85"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b84"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b83"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b82"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b81"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_marginRight="5dp"
+                android:layout_height="18pt" android:id="@+id/b80"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b79"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b78"/>
+        <Button
+                android:text=""
+                android:layout_width="18pt"
+                android:backgroundTint="#F0BA11"
+                android:layout_height="18pt" android:id="@+id/b77"/>
+    </TableRow>
+
+</TableLayout>
